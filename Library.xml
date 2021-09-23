@@ -1,0 +1,28 @@
+<?xlm version="1.0" encoding="UTF-8"?>
+
+<library>
+	<technical_catalogue>
+		<book>
+			<ISBN> 9780132350884 </ISBN>
+			<title> Clean Code: A Handbook of Agile Software Craftsmanship </title>
+			<author> Robert C. Martin </author>
+		</book>
+		<book>
+			<ISBN> 9781549100376 </ISBN>
+			<title> The Art of Statistics: How to Learn from Data </title>
+			<author> David Spiegelhalter </author>
+		</book>
+	</technical_catalogue>
+	<cookery_catalogue>
+		<book>
+			<ISBN> 9780008332938 </ISBN>
+			<title> Speedy Bosh!</title>
+			<author> Henry Firth </author>
+		</book>
+		<book>
+			<ISBN> 9781529325584 </ISBN>
+			<title> Super Food in Minutes </title>
+			<author> Donal Skehan </author>
+		</book>
+	</cookery_catalogue>
+</library>
